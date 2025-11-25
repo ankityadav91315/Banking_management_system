@@ -6,6 +6,7 @@ This project demonstrates the use of Object-Oriented Programming (OOP), JDBC, My
 #Features_of_Banking_System:
 
 1)Customer Management
+
   *Add new customers
 
   *View customer details
@@ -15,6 +16,7 @@ This project demonstrates the use of Object-Oriented Programming (OOP), JDBC, My
   *Delete customer records
 
 2)Banking Operations
+
   *Open new bank accounts
 
   *Deposit money
@@ -26,13 +28,17 @@ This project demonstrates the use of Object-Oriented Programming (OOP), JDBC, My
   *Account-to-account transfer
 
   *Transaction history
+  
 3)Admin Panel
+
   *Secure login system
 
   *Manage all customer accounts
 
   *View all transaction logs
+  
 4)Database(MySql & Java-database-connectivity)
+
   *Customer table
 
   *Account table
