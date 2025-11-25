@@ -4,6 +4,7 @@ A Java-based Banking Management System that allows users to manage bank accounts
 This project demonstrates the use of Object-Oriented Programming (OOP), JDBC, MySQL, and GUI/Console (depending on your implementation).
 
 #Features_of_Banking_System:
+
 1)Customer Management
   *Add new customers
 
